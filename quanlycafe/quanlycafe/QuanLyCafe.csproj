@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{574F2706-22BE-4090-AE61-9511E30EB31F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>quanlycafe</RootNamespace>
+    <AssemblyName>quanlycafe</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="baocao_thongke\frm_thongkedoanhthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="baocao_thongke\frm_thongkedoanhthu.Designer.cs">
+      <DependentUpon>frm_thongkedoanhthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhat\frm_loaimon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhat\frm_loaimon.Designer.cs">
+      <DependentUpon>frm_loaimon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhat\frm_mon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhat\frm_mon.Designer.cs">
+      <DependentUpon>frm_mon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp.Designer.cs">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrangChu.Designer.cs">
+      <DependentUpon>frmTrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nghiepvu\frm_lapHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nghiepvu\frm_lapHoaDon.Designer.cs">
+      <DependentUpon>frm_lapHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="quanly\quanlynhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quanly\quanlynhanvien.Designer.cs">
+      <DependentUpon>quanlynhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="quanly\quanlyquyentruycap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quanly\quanlyquyentruycap.Designer.cs">
+      <DependentUpon>quanlyquyentruycap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiem\frm_timkiemmon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiem\frm_timkiemmon.Designer.cs">
+      <DependentUpon>frm_timkiemmon.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="baocao_thongke\frm_thongkedoanhthu.resx">
+      <DependentUpon>frm_thongkedoanhthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhat\frm_loaimon.resx">
+      <DependentUpon>frm_loaimon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhat\frm_mon.resx">
+      <DependentUpon>frm_mon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp.resx">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrangChu.resx">
+      <DependentUpon>frmTrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nghiepvu\frm_lapHoaDon.resx">
+      <DependentUpon>frm_lapHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quanly\quanlynhanvien.resx">
+      <DependentUpon>quanlynhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quanly\quanlyquyentruycap.resx">
+      <DependentUpon>quanlyquyentruycap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiem\frm_timkiemmon.resx">
+      <DependentUpon>frm_timkiemmon.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\song-tho-hon-khi-uong-cafe-290958j14130.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agt-login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teacher-female-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Student-Male-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users-Student-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Very-Basic-Cancel-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="hotro\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistics-market-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee-Cup-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text-Edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text-Edit-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-delete-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

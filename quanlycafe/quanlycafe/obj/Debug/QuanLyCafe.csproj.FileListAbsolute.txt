@@ -1,0 +1,96 @@
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\bin\Debug\quanlycafelamlai.exe.config
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\quanlycafelamlai.exe
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\quanlycafelamlai.pdb
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\bin\Debug\quanlycafelamlai.exe
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\bin\Debug\quanlycafelamlai.pdb
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.BaoCao_thongke.frm_thongkedoanhthu.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.capnhat.frm_loaimon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.capnhat.frm_mon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.frmMain.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.NghiepVu.frm_lapHoaDon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\quanlycafelamlai.Properties.Resources.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.TimKiem.frm_timkiemmon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafelamlai\bin\Debug\quanlycafe.exe.config
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe.config
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\bin\Debug\quanlycafe.pdb
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.BaoCao_thongke.frm_thongkedoanhthu.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_loaimon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_mon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.frmMain.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.NghiepVu.frm_lapHoaDon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\quanlycafe.Properties.Resources.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.TimKiem.frm_timkiemmon.resources
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\quanlycafe.exe
+D:\[Sharecode.vn] Code quan ly quan cafe C#\[Sharecode.vn] Code quan ly quan cafe C#\quanlycafe\quanlycafe\quanlycafe\obj\Debug\quanlycafe.pdb
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe.config
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\quanlycafe.exe
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\quanlycafe.pdb
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\bin\Debug\quanlycafe.pdb
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.BaoCao_thongke.frm_thongkedoanhthu.resources
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_loaimon.resources
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_mon.resources
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.frmMain.resources
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.NghiepVu.frm_lapHoaDon.resources
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\quanlycafe.Properties.Resources.resources
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.TimKiem.frm_timkiemmon.resources
+C:\Users\User\Desktop\Quản Lý Cafe_Huỳnh Hữu Phước Lộc_1431101119_08DHPM1\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe.config
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\quanlycafe.exe
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\quanlycafe.pdb
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\bin\Debug\quanlycafe.pdb
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.BaoCao_thongke.frm_thongkedoanhthu.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_loaimon.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_mon.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.NghiepVu.frm_lapHoaDon.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.TimKiem.frm_timkiemmon.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\quanlycafe.frmLogin.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.frmTrangChu.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\quanlycafe.Properties.Resources.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.quanly.quanlynhanvien.resources
+D:\Quản Lý Cafe\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.quanly.quanlyquyentruycap.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe.config
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\quanlycafe.exe
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\quanlycafe.pdb
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\bin\Debug\quanlycafe.exe
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\bin\Debug\quanlycafe.pdb
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.BaoCao_thongke.frm_thongkedoanhthu.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_loaimon.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_mon.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.frmLogin.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.frmTrangChu.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.NghiepVu.frm_lapHoaDon.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\quanlycafe.Properties.Resources.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.quanly.quanlynhanvien.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.quanly.quanlyquyentruycap.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.TimKiem.frm_timkiemmon.resources
+D:\newdesktop\ATPM\Demo\quanlycafe\quanlycafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+G:\quanlycafe-master\quanlycafe\bin\Debug\quanlycafe.exe.config
+G:\quanlycafe-master\quanlycafe\bin\Debug\quanlycafe.exe
+G:\quanlycafe-master\quanlycafe\bin\Debug\quanlycafe.pdb
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.BaoCao_thongke.frm_thongkedoanhthu.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_loaimon.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.capnhat.frm_mon.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.frmLogin.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.frmTrangChu.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.NghiepVu.frm_lapHoaDon.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\quanlycafe.Properties.Resources.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.quanly.quanlynhanvien.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.quanly.quanlyquyentruycap.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.TimKiem.frm_timkiemmon.resources
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+G:\quanlycafe-master\quanlycafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+G:\quanlycafe-master\quanlycafe\obj\Debug\quanlycafe.exe
+G:\quanlycafe-master\quanlycafe\obj\Debug\quanlycafe.pdb
+G:\quanlycafe-master\quanlycafe\obj\Debug\quanlycafe.frmHelp.resources
